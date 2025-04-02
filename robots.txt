@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-visisoothe.vercel.app
+Sitemap: https://buy-visisoothe.vercel.app/sitemap.xml
