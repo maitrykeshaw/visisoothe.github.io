@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"VisiSoothe™ (USA Official) Get 50% Off + Free Shipping",
+  "short_name":"VisiSoothe™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"VisiSoothe is a nutrient-rich supplement designed to improve vision and protect eye health.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
